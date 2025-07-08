@@ -6,3 +6,8 @@ Instructions:
 Run:
 flutter pub get
 flutter run
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/ball.png
